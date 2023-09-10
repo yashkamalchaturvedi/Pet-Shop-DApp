@@ -1,5 +1,7 @@
 # Pet-Shop-DApp
 
+![](https://coincodecap.com/wp-content/uploads/2022/02/screen.png.webp)
+
 ## TL;DR
 - Web3 has been trending since the start of 2022, much like NFTs were exploding last year.
 - Prior experience in Solidity and Blockchain Development tools like Ganache, Truffle etc., is not required.
